@@ -11,10 +11,10 @@
 		40F28A1E29344E4600535FBD /* MXPagerViewReloadUpdate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40F28A1329344E4600535FBD /* MXPagerViewReloadUpdate.framework */; };
 		40F28A2329344E4600535FBD /* MXPagerViewReloadUpdateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F28A2229344E4600535FBD /* MXPagerViewReloadUpdateTests.m */; };
 		40F28A2429344E4600535FBD /* MXPagerViewReloadUpdate.h in Headers */ = {isa = PBXBuildFile; fileRef = 40F28A1629344E4600535FBD /* MXPagerViewReloadUpdate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		40F28A3129344F3400535FBD /* MXPagerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 40F28A2D29344F3400535FBD /* MXPagerView.h */; };
+		40F28A3129344F3400535FBD /* MXPagerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 40F28A2D29344F3400535FBD /* MXPagerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		40F28A3229344F3400535FBD /* MXPagerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F28A2E29344F3400535FBD /* MXPagerView.m */; };
 		40F28A3329344F3400535FBD /* MXPagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F28A2F29344F3400535FBD /* MXPagerViewController.m */; };
-		40F28A3429344F3400535FBD /* MXPagerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 40F28A3029344F3400535FBD /* MXPagerViewController.h */; };
+		40F28A3429344F3400535FBD /* MXPagerViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 40F28A3029344F3400535FBD /* MXPagerViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
