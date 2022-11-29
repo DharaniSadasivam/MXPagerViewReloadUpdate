@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MXPagerViewReloadUpdate"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "Pager view with reusable page, reload all the pages and storyboard support ."
 
   # This description is used to generate tags and improve search results.
@@ -63,7 +63,7 @@ Pod::Spec.new do |spec|
 
 spec.homepage         = "https://github.com/DharaniSadasivam/MXPagerViewReloadUpdate"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
-  spec.source           = { :git => "https://github.com/DharaniSadasivam/MXPagerViewReloadUpdate.git", :tag => "1.0.3" }
+  spec.source           = { :git => "https://github.com/DharaniSadasivam/MXPagerViewReloadUpdate.git", :tag => "1.0.4" }
 
   spec.platform     = :ios, '11.0'
   spec.requires_arc = true
